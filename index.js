@@ -10,7 +10,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What is your Github email?',
+        message: 'What is your email?',
         name: 'email',
     },
     {
@@ -23,6 +23,26 @@ const questions = [
         type: 'input',
         message: 'Give a short description of your project',
         name: 'descript',
+    },
+    {
+        type: 'input',
+        message: 'Give a short description of installation instructions',
+        name: 'install',
+    },
+    {
+        type: 'input',
+        message: 'Give a short description of how to use your application',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'Give a short description of how to contribute',
+        name: 'contribution',
+    },
+    {
+        type: 'input',
+        message: 'Give a short description of how to testthe app',
+        name: 'test',
     },
     {
         type: 'checkbox',
