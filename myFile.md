@@ -1,4 +1,4 @@
-# generator
+# READmeGeneratorNodeJS
  
 ## Table of Contents
 - [Project Details](#Description)
@@ -10,23 +10,23 @@
 - [Project License](#License)
 
 ## Description
-does a little trick
+Using nodejs terminal commands i can populate README template
 
 ## Installation
-speak friend and enter
+running an installation of npm i inquirer you can then run my index.js
 
 ## Usage
-knock three times on the ceiling if you want me
+node index.js in the terminal
 
 ## Contributing
-pls no
+please dont contribute
 
 ## Tests 
-the secret here is crime
+if you are in the correct file you can run node index.js
 
 ## ContactInfo 
-teelSam
-sjkteel@gmail.com
+[github  link](https://github.com/Teelsam)
+[My Email]sjkteel@gmail.com
           
 ## License
 MIT

@@ -48,8 +48,8 @@ ${data.contribution}
 ${data.test}
 
 ## ContactInfo 
-${data.username}
-${data.email}
+[github  link](https://github.com/${data.username})
+[My Email] ${data.email}
           
 ## License
 ${data.license}`;
