@@ -10,19 +10,19 @@
 - [Project License](#License)
 
 ## Description
-it populates a readme template with user input
+it generates readmefile content to a template from user prompted inputs
 
 ## Installation
-you need inquirer and node js installed
+it requires npm package inquirer and node js both links are in app readme
 
 ## Usage
-once imporant pieces are installed, simply run node index.js
+with all packages installed, run node index.js in terminal
 
 ## Contributing
-you can clone my repo and explore the code
+clone my repo and search for bugs
 
 ## Tests 
-or clone the repo and run in the terminal (assuming you have the packages) node index,    .js
+clone my repo and run the code yourself 
 
 ## Questions 
 [github  link](https://github.com/teelsam)
