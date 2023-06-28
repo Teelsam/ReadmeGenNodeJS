@@ -1,4 +1,4 @@
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) gen
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) generator
  
 ## Table of Contents
 - [Project Details](#Description)
@@ -10,29 +10,30 @@
 - [Project License](#License)
 
 ## Description
-it gens
+it generates a readmefile through prompts
 
 ## Installation
-install needed gen
+you need the npm package inquirer
 
 ## Usage
-run gen
+run node index.js when you are in the correct file
 
 ## Contributing
-self gen
+git clone the repo and explore the code
 
 ## Tests 
-self gen and explore
+git clone the repo and run node index.js
 
 ## Questions 
 [github  link](https://github.com/teelsam)
 
 
-[My Email]( sjkteel@gmail.com)
+My Email: ( sjkteel@gmail.com)
 
 
 You can email me with inquiries and report bugs, please allow 1 weeks time before replies.
           
 ## License
-This project is licensed under :MIT
-More information can be read here:[License: MIT](https://opensource.org/licenses/MIT)
+This project is licensed under: MIT
+
+More information can be read here: [License: MIT](https://opensource.org/licenses/MIT)
