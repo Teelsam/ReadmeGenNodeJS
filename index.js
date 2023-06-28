@@ -25,14 +25,13 @@ const questions = [
         name: 'descript',
     },
     {
-        type: 'input',
-        message: 'What is the luicense for your project?',
+        type: 'checkbox',
+        message: 'What is the license for your project?',
         name: 'license',
+        choices:['MIT', "APACHE 2.0","GPL 3.0","BSD 3","None"],
     },
-    {
-    choices:["MIT",new inquirer.Separator(),"APACHE 2.0",new inquirer.Separator(),"GPL 3.0",new inquirer.Separator(),"BSD 3",new inquirer.Separator(),"None"]
-    }
-];
+
+]
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { }
