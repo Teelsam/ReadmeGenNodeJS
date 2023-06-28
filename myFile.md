@@ -10,19 +10,19 @@
 - [Project License](#License)
 
 ## Description
-it generates a readmefile through prompts
+it generates readmefiles
 
 ## Installation
-you need the npm package inquirer
+you need inquirer
 
 ## Usage
-run node index.js when you are in the correct file
+run node index.js
 
 ## Contributing
-git clone the repo and explore the code
+you can clone the repo and explore
 
 ## Tests 
-git clone the repo and run node index.js
+clone the repo and run
 
 ## Questions 
 [github  link](https://github.com/teelsam)
