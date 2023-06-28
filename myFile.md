@@ -1,4 +1,4 @@
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) generator
+# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ReadmeGenNodeJS
  
 ## Table of Contents
 - [Project Details](#Description)
@@ -10,19 +10,19 @@
 - [Project License](#License)
 
 ## Description
-it generates readmefiles
+it populates a readme template with user input
 
 ## Installation
-you need inquirer
+you need inquirer and node js installed
 
 ## Usage
-run node index.js
+once imporant pieces are installed, simply run node index.js
 
 ## Contributing
-you can clone the repo and explore
+you can clone my repo and explore the code
 
 ## Tests 
-clone the repo and run
+or clone the repo and run in the terminal (assuming you have the packages) node index,    .js
 
 ## Questions 
 [github  link](https://github.com/teelsam)
