@@ -1,4 +1,4 @@
-# READmeGeneratorNodeJS
+# t
  
 ## Table of Contents
 - [Project Details](#Description)
@@ -6,27 +6,28 @@
 - [Project Usage](#Usage)
 - [Project Contribution](#Contribution)
 - [Project Tests](#Tests)
-- [Project Contact Info](#ContactInfo)
+- [Project Questions](#Questions)
 - [Project License](#License)
 
 ## Description
-Using nodejs terminal commands i can populate README template
+t
 
 ## Installation
-running an installation of npm i inquirer you can then run my index.js
+t
 
 ## Usage
-node index.js in the terminal
+t
 
 ## Contributing
-please dont contribute
+t
 
 ## Tests 
-if you are in the correct file you can run node index.js
+t
 
-## ContactInfo 
-[github  link](https://github.com/Teelsam)
-[My Email]sjkteel@gmail.com
+## Questions 
+[github  link](https://github.com/t)
+[My Email] t
+You can email me with inquiries and report bugs, please allow 1 weeks time before replies.
           
 ## License
 MIT
